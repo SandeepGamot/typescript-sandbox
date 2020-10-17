@@ -1,0 +1,13 @@
+{
+  "name": "sort",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "nodemon ./src/app.ts"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.5"
+  }
+}
